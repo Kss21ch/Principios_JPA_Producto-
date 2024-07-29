@@ -7,7 +7,7 @@
 - Chiriguaya Kevin
 - Vallejo Andres
 
-## : Crear la Entidad y el Repositorio
+## Crear la Entidad y el Repositorio
 
 1. **Crear la Entidad Producto:**
    - Creamos un paquete llamado `model`.
@@ -19,7 +19,7 @@
    - Dentro del paquete `repository`, crea una interfaz `ProductoRepository` que extienda `JpaRepository<Producto, Long>`.
      ![image](https://github.com/user-attachments/assets/9dbef380-111d-4819-b7a2-0e79a6c3adf2)
 
-## Parte 3: Crear el Servicio
+## Crear el Servicio
 
 1. **Crear la Clase ProductoService:**
    - Creamos un paquete llamado `service`.
@@ -28,7 +28,7 @@
      ![image](https://github.com/user-attachments/assets/2940cb09-c38c-4735-a6cd-08b1f3243f60)
      ![image](https://github.com/user-attachments/assets/7cda42c2-0156-4cec-a4ca-6fcc03016c9d)
 
-## Parte 4: Crear el Controlador
+## Crear el Controlador
 
 1. **Crear la Clase ProductoController:**
    - Creamos un paquete llamado `controller`.
@@ -36,7 +36,7 @@
      ![image](https://github.com/user-attachments/assets/87c45846-a54f-48ea-91b5-a93c305f2ac8)
 
 
-## Parte 5: Inicializar la Base de Datos
+## Inicializar la Base de Datos
 
 1. **Cargar Datos de Prueba:**
 2. 
@@ -45,7 +45,7 @@
    
    ![image](https://github.com/user-attachments/assets/67a3954e-482e-4f28-ad28-22eb0cda867b)
 
-## Parte 6: Ejecutar y Probar la Aplicación
+## Ejecutar y Probar la Aplicación
 
 1. **Ejecutar la Aplicación:**
   ![image](https://github.com/user-attachments/assets/38fb46a6-93d6-4271-95a2-3d10097d2270)
