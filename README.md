@@ -1,4 +1,4 @@
-# Principios_JPA_Producto-
+# Principios_JPA_Producto
 ## Grupo #9 
 ### Integrantes:
 - Benites Geraldine
