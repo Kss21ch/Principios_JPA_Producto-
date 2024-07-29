@@ -1,6 +1,6 @@
 # Principios_JPA_Producto-
-Grupo #9 
-## Integrantes:
+## Grupo #9 
+### Integrantes:
 - Benites Geraldine
 - Cadena Daniel
 - Casco Bryan
