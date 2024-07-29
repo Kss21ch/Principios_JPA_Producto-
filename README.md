@@ -12,12 +12,12 @@ Grupo #9
 1. **Crear la Entidad Producto:**
    - Creamos un paquete llamado `model`.
    - Dentro del paquete `model`, crea una clase `Producto` con los siguientes atributos:
-     ![image](https://github.com/user-attachments/assets/f2e489f9-6468-440f-bd40-d3f28f49b8d1)
+     ![image](https://github.com/user-attachments/assets/43407c0d-a5b4-4eaa-a71f-897fa0e3d45e)
 
 2. **Crear el Repositorio ProductoRepository:**
    - Creamos un paquete llamado `repository`.
    - Dentro del paquete `repository`, crea una interfaz `ProductoRepository` que extienda `JpaRepository<Producto, Long>`.
-     ![image](https://github.com/user-attachments/assets/04ec95d4-091d-4f14-b329-3d6570c70f44)
+     ![image](https://github.com/user-attachments/assets/9dbef380-111d-4819-b7a2-0e79a6c3adf2)
 
 ## Parte 3: Crear el Servicio
 
@@ -25,8 +25,8 @@ Grupo #9
    - Creamos un paquete llamado `service`.
    - Dentro del paquete `service`, crea una clase `ProductoService` con métodos para manejar la lógica del negocio (CRUD).
      
-     ![image](https://github.com/user-attachments/assets/e63aaf1c-7a45-46f6-8c18-132a07d097a2)
-      ![image](https://github.com/user-attachments/assets/1263f7a4-df25-420f-bcfa-573c68df66ff)
+     ![image](https://github.com/user-attachments/assets/2940cb09-c38c-4735-a6cd-08b1f3243f60)
+     ![image](https://github.com/user-attachments/assets/7cda42c2-0156-4cec-a4ca-6fcc03016c9d)
 
 ## Parte 4: Crear el Controlador
 
